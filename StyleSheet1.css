@@ -1,0 +1,30 @@
+﻿html{
+    background-color:indianred;
+}
+body
+{
+    background-color: indianred;
+}
+.jumbotron{
+    background-color:grey;
+    color:black;
+    
+}
+.SM{
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+}
+.Button{
+  text-align:center;
+}
+.googleform{
+    text-align:center;
+}
+.table-responsive{
+    width:500px;
+    color:black;
+   margin-left: auto;
+   margin-right: auto;
+}
